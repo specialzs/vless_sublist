@@ -1,5 +1,5 @@
-vless://nemetrix@213.142.133.87:8080?type=ws&path=%2F&host=&security=none#VLESS 8080-datacasa11ws
-vless://eb0b763f-45f0-412e-b7b7-0e82979d7588@94.156.11.231:8080?type=ws&path=%2F&host=&security=none#Ws 8080-hostopya8080ws
-vless://4c859584-2434-4abb-9278-d32c90a31ea4@149.100.70.102:8080?type=ws&path=%2F&host=&security=none#O2-teknodc
-vless://2547db28-f98c-46dd-a55c-fa2c44779eb9@77.90.14.32:8080?type=ws&path=%2F&host=&security=none#O2-nodesty8080
+vless://nemetrix@213.142.133.87:8080?type=ws&path=%2F&host=mmsc.mms.o2.co.uk&security=none#VLESS 8080-datacasa11ws
+vless://eb0b763f-45f0-412e-b7b7-0e82979d7588@94.156.11.231:8080?type=ws&path=%2F&host=mmsc.mms.o2.co.uk&security=none#Ws 8080-hostopya8080ws
+vless://4c859584-2434-4abb-9278-d32c90a31ea4@149.100.70.102:8080?type=ws&path=%2F&host=mmsc.mms.o2.co.uk&security=none#O2-teknodc
+vless://2547db28-f98c-46dd-a55c-fa2c44779eb9@77.90.14.32:8080?type=ws&path=%2F&host=mmsc.mms.o2.co.uk&security=none#O2-nodesty8080
 vless://nemetrix@213.238.172.155:8080?type=ws&path=%2F&host=mmsc.mms.o2.co.uk&security=none#O2 MMS-kapteyan
